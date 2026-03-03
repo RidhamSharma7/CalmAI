@@ -19,4 +19,4 @@ A calming, India-focused anxiety support web app with an AI chat experience, gui
 **AI:** Groq (OpenAI-compatible client)  
 **Deployment:** Vercel (frontend) + Render (backend)
 
-## Project Structure
+
