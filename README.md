@@ -1,4 +1,4 @@
-# CalmAI 🌿 — Anxiety Support Companion (Full Stack)
+# CalmAI 🌿 — Anxiety Support Companion 
 
 A calming, India-focused anxiety support web app with an AI chat experience, guided breathing exercises, and 5-4-3-2-1 grounding.
 
