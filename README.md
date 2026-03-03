@@ -1,6 +1,6 @@
 # CalmAI 🌿 — Anxiety Support Companion 
 
-A calming, India-focused anxiety support web app with an AI chat experience, guided breathing exercises, and 5-4-3-2-1 grounding.
+A calming, anxiety support web app with an AI chat experience, guided breathing exercises, and 5-4-3-2-1 grounding.
 
 ## Live Demo
 - **Frontend (Vercel):** [(https://calm-ai-4sl9-git-main-ex0ternal190-4599s-projects.vercel.app/) ] 
