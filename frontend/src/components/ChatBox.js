@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import axios from "axios";
 
-const API = "http://localhost:8000";
+const API = "https://calmai.onrender.com";
 
 // ── Breathing exercise configs ──
 const BREATH_EXERCISES = [
@@ -129,7 +129,7 @@ export default function ChatBox() {
   };
 
   const ex = BREATH_EXERCISES[selectedExercise];
-  const isInhale  = breathPhase === 0;
+ 
   const isExhale  = ex.phases[breathPhase] === "Exhale";
   const circleScale = breathActive ? (isExhale ? 0.95 : 1.42) : 1.0;
 
